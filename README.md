@@ -1,5 +1,11 @@
 # 🍔 Foodie - Food Ordering Web App
 
+## 🔗 Live Demo
+
+ https://meghana1125-ui.github.io/Foodie./
+ 
+---
+
 Foodie is a responsive food ordering web application built using **HTML, CSS, and JavaScript**.
 It provides a smooth and interactive user experience for browsing menus, adding items to cart, and placing orders.
 
@@ -25,6 +31,7 @@ It provides a smooth and interactive user experience for browsing menus, adding 
 * HTML5
 * CSS3
 * JavaScript (Vanilla JS)
+* PWA (service Worker + Manifest)
 
 ---
 
@@ -62,22 +69,22 @@ Foodie/
 
 ### 🛒 Features & Functionality
 
-<img src="screenshots/menu-searchbar.png" width="45%">
-<img src="screenshots/install-app.png" width="45%">
+<img src="screenshots/menu-searchbar.png" width="800">
+<img src="screenshots/install-app.png" width="800">
 
-<img src="screenshots/checkout.png" width="45%">
-<img src="screenshots/order-confirmation.png" width="45%">
+<img src="screenshots/checkout.png" width=""800>
+<img src="screenshots/order-confirmation.png" width="800">
 
-<img src="screenshots/order-placed.png" width="45%">
-<img src="screenshots/order-tracking.png" width="45%">
+<img src="screenshots/order-placed.png" width="800">
+<img src="screenshots/order-tracking.png" width="800">
 
 ---
 
 ### 📱 Mobile View
 
-<img src="screenshots/mobile-view.png" width="45%">
-<img src="screenshots/hamburger.png" width="45%">
-<img src="screenshots/empty-cart.png" width="45%">
+<img src="screenshots/mobile-view.png" width="300">
+<img src="screenshots/hamburger.png" width="300">
+<img src="screenshots/empty-cart.png" width="300">
 
 ---
 
@@ -102,11 +109,6 @@ Foodie/
 * 💳 Payment integration
 * 🌍 Backend integration (Node.js / Firebase)
 
----
-
-## 🔗 Live Demo
-
- https://meghana1125-ui.github.io/Foodie./
 ---
 
 ## 👩‍💻 Author
