@@ -56,14 +56,14 @@ Foodie/
 
 ### 💻 Desktop View
 
-<img src="screenshots/home-page.png" width="45%">
-<img src="screenshots/services.png" width="45%">
+<img src="screenshots/home-page.png" width="800">
+<img src="screenshots/services.png" width="800">
 
-<img src="screenshots/menu-section.png" width="45%">
-<img src="screenshots/reviews.png" width="45%">
+<img src="screenshots/menu-section.png" width="800">
+<img src="screenshots/reviews.png" width="800">
 
-<img src="screenshots/offer-section.png" width="45%">
-<img src="screenshots/footer.png" width="45%">
+<img src="screenshots/offer-section.png" width="800">
+<img src="screenshots/footer.png" width="800">
 
 ---
 
@@ -82,9 +82,9 @@ Foodie/
 
 ### 📱 Mobile View
 
-<img src="screenshots/mobile-view.png" width="300">
-<img src="screenshots/hamburger.png" width="300">
-<img src="screenshots/empty-cart.png" width="300">
+<img src="screenshots/mobile-view.png" width="800">
+<img src="screenshots/hamburger.png" width="800">
+<img src="screenshots/empty-cart.png" width="800">
 
 ---
 
