@@ -105,8 +105,8 @@ Foodie/
 ---
 
 ## 🔗 Live Demo
-https://your-link-here
 
+ https://meghana1125-ui.github.io/Foodie./
 ---
 
 ## 👩‍💻 Author
