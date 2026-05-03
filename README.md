@@ -7,6 +7,12 @@
  
 ---
 
+## 🎥 Demo
+
+![Demo](screenshots/demo.gif)
+
+---
+
 Foodie is a responsive food ordering web application built using **HTML, CSS, and JavaScript**.
 It provides a smooth and interactive user experience for browsing menus, adding items to cart, and placing orders.
 
