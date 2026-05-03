@@ -1,4 +1,5 @@
-# 🍔 Foodie - Food Ordering Web App
+# 🍔 Foodie - Food Ordering Web App 
+✨ A modern, responsive food ordering website with cart, search, and PWA support
 
 ## 🔗 Live Demo
 
@@ -35,6 +36,11 @@ It provides a smooth and interactive user experience for browsing menus, adding 
 
 ---
 
+## 🌐 Deployment
+This project is deployed using **GitHub Pages**.
+
+---
+
 ## 📂 Project Structure
 
 ```
@@ -56,41 +62,43 @@ Foodie/
 
 ### 💻 Desktop View
 
-<img src="screenshots/home-page.png" width="800">
-<img src="screenshots/services.png" width="800">
+<img src="screenshots/home-page.png" width="100%">
+<img src="screenshots/services.png" width="100%">
 
-<img src="screenshots/menu-section.png" width="800">
-<img src="screenshots/reviews.png" width="800">
+<img src="screenshots/menu-section.png" width="100%">
+<img src="screenshots/reviews.png" width="100%">
 
-<img src="screenshots/offer-section.png" width="800">
-<img src="screenshots/footer.png" width="800">
+<img src="screenshots/offer-section.png" width="100%">
+<img src="screenshots/footer.png" width="100%">
 
 ---
 
 ### 🛒 Features & Functionality
 
-<img src="screenshots/menu-searchbar.png" width="800">
-<img src="screenshots/install-app.png" width="800">
+<img src="screenshots/menu-searchbar.png" width="100%">
+<img src="screenshots/install-app.png" width="100%">
 
-<img src="screenshots/checkout.png" width=""800>
-<img src="screenshots/order-confirmation.png" width="800">
+<img src="screenshots/checkout.png" width=""100%>
+<img src="screenshots/order-confirmation.png" width="100%">
 
-<img src="screenshots/order-placed.png" width="800">
-<img src="screenshots/order-tracking.png" width="800">
+<img src="screenshots/order-placed.png" width="100%">
+<img src="screenshots/order-tracking.png" width="100%">
 
 ---
 
 ### 📱 Mobile View
 
-<img src="screenshots/mobile-view.png" width="800">
-<img src="screenshots/hamburger.png" width="800">
-<img src="screenshots/empty-cart.png" width="800">
+<img src="screenshots/mobile-view.png" width="100%">
+<img src="screenshots/hamburger.png" width="100%">
+<img src="screenshots/empty-cart.png" width="100%">
 
 ---
 
-## ⚙️ How to Run the Project
+## ⚙️ How to Run Locally
 
-1. Download or clone the repository
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/Meghana1125-ui/Foodie.git
 2. Open the folder in VS Code
 3. Run using **Live Server**
 4. Open in browser:
