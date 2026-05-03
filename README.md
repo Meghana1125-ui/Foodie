@@ -9,7 +9,7 @@
 
 ## 🎥 Demo
 
-![Demo](screenshots/demo.gif)
+![Demo](screenshots/demo.mp4)
 
 ---
 
