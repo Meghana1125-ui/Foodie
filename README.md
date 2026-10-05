@@ -3,7 +3,7 @@
 
 ## 🔗 Live Demo
 
- https://meghana1125-ui.github.io/Foodie./
+ https://meghana1125-ui.github.io/Foodie/
  
 ---
 
